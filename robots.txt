@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://diegocalancho.com/sitemap.xml
+Sitemap: https://diegocalancho.github.io/sitemap.xml

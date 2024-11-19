@@ -3,7 +3,7 @@
   
   <!-- Página principal -->
   <url>
-    <loc>https://diegocalancho.com/</loc>
+    <loc>https://diegocalancho.github.io/</loc>
     <lastmod>2024-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -11,23 +11,23 @@
 
   <!-- Página "Sobre mí" -->
   <url>
-    <loc>https://diegocalancho.com/#sobre-mi</loc>
+    <loc>https://diegocalancho.github.io/#sobre-mi</loc>
     <lastmod>2024-11-18</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Página "Proyectos" -->
   <url>
-    <loc>https://diegocalancho.com/#proyectos</loc>
+    <loc>https://diegocalancho.github.io/#proyectos</loc>
     <lastmod>2024-11-18</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <!-- Página "Habilidades" -->
   <url>
-    <loc>https://diegocalancho.com/#habilidades</loc>
+    <loc>https://diegocalancho.github.io/#habilidades</loc>
     <lastmod>2024-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -35,7 +35,7 @@
 
   <!-- Página "Contacto" -->
   <url>
-    <loc>https://diegocalancho.com/#contacto</loc>
+    <loc>https://diegocalancho.github.io/#contacto</loc>
     <lastmod>2024-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -43,7 +43,7 @@
 
   <!-- GitHub -->
   <url>
-    <loc>https://github.com/dxloper</loc>
+    <loc>https://github.com/diegocalancho</loc>
     <lastmod>2024-11-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
@@ -58,3 +58,4 @@
   </url>
 
 </urlset>
+
